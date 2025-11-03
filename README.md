@@ -9,15 +9,18 @@ hashtable.php uses a Hash Table to store and quickly retrieve detailed informati
 Together, these files demonstrate different ways to store, organize, and access data efficiently in PHP
 
 Example output
+
 BST
-<img width="1365" height="767" alt="Screenshot 2025-10-26 174232" src="https://github.com/user-attachments/assets/59092e56-ede4-4a34-bdc1-337656224855" />
+
+<img width="1365" height="767" alt="Screenshot 2025-10-26 174420" src="https://github.com/user-attachments/assets/b3c12d88-834d-402d-9bf6-7268d894f11d" />
 
 Hashtable
 <img width="1365" height="767" alt="Screenshot 2025-10-26 174341" src="https://github.com/user-attachments/assets/7a92ac9b-cfca-45cd-b660-690cde9d3590" />
 
 
 Recursive
-<img width="1365" height="767" alt="Screenshot 2025-10-26 174420" src="https://github.com/user-attachments/assets/b3c12d88-834d-402d-9bf6-7268d894f11d" />
+<img width="1365" height="767" alt="Screenshot 2025-10-26 174232" src="https://github.com/user-attachments/assets/59092e56-ede4-4a34-bdc1-337656224855" />
+
 
 Combine
 <img width="1365" height="767" alt="Screenshot 2025-10-26 181458" src="https://github.com/user-attachments/assets/818bb5ec-bd40-464b-a31c-7c8ef1271eb6" />
